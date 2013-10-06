@@ -1,0 +1,55 @@
+table, th, td {
+	border: 1px solid #bcbdbc;
+    
+}
+table {
+	border-collapse: collapse;    
+	width: 50%;	
+	font-family: tahoma;
+	
+}
+td, th {
+	text-align: left;
+	padding: 5px;
+    	
+}
+td {
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    
+}
+th {
+	background-color: #0fc820;
+	color: white;
+	font-weight: normal;
+    border-top: 1px solid    #7e807e;
+    border-right: 1px solid    #7e807e;
+    border-left: 1px solid   #7e807e;
+    border-bottom: 1px solid #7e807e;
+    
+}
+.rowgrey {
+	background-color: #e0e8e1;
+}
+.rowwhite {
+    background-color: #fafbf9;
+}
+#germany{
+    background-image: url('germany.png');
+    background-repeat: no-repeat;
+    background-position: 5px ;
+    padding-left: 40px;  
+}
+.mexico {
+    background-image: url('mexico.png');
+    background-repeat: no-repeat;
+    background-position: 5px ;
+    padding-left: 40px; 
+}
+#uk {
+    background-image: url('ukflag.gif');
+    background-repeat: no-repeat;
+    background-position: 5px ;
+    padding-left: 40px; 
+}

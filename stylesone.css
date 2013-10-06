@@ -1,0 +1,53 @@
+body {
+    background: #e7e9e7;
+    line-height:55px;
+}
+div.diver {
+    background-color: #656765;
+    width:40%;
+    font-family:  verdana;
+    font-size: 22px;
+    padding-left:4px;
+}
+
+
+th {
+    color: #a29f9f;
+    font-weight: normal;
+    font-size: 30px;
+    text-align: left;
+}
+.leftside {
+    color: #e1e0e0;
+    font-style: italic;
+}
+.rightside {
+    padding-left: 45px;  
+    color: #d4d361;   
+}
+#name {    
+    vertical-align: top;
+}
+#sidel {
+    background-image: url('circle-green.png');
+    background-repeat: no-repeat;
+    background-position: 0px;
+    padding-left: 28px;
+    color: #d4d361;
+}
+#nosupport {
+    margin-top: -25px;
+    color: #d0142e;
+}
+#orange {
+    color: #ed8618;
+}
+#hours {
+    color: #a2a2a2;
+}
+#never {
+    color: #a2a2a2;
+}
+#empty {
+    text-indent: -9999em;
+}
